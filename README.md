@@ -1,6 +1,6 @@
 # Homework1
 
-## We were given the task of updating the provided HTML code, which was rather messy and hard to follow, for clearer reading and SEO best practices using semantic tags. 
+## We were given the task of updating provided HTML code, which was rather messy and hard to follow, for clearer reading and SEO best practices using semantic tags. We were also to deploy our website using GitPages so that our website will go live.
 
 ### I updated the title tag to contain information on the company as well as keywords
 
@@ -14,7 +14,7 @@
 
 ### I added alt tags to all images 
 
-### There were a ton of divs, so I changed these wherever applicable
+### There were a ton of divs, so I changed these to more semantic HTML tags wherever applicable
 
 ### I added a main tag for the main part of the page 
 
